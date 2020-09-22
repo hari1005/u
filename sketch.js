@@ -1,9 +1,3 @@
-function preload() {
-    laserSound = loadSound('laser.ogg');
-    deathSound = loadSound('death.ogg');
-}
-
-
 
 function setup() {
     createCanvas(400, 400);
